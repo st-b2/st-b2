@@ -53,7 +53,7 @@ I believe that **knowledge is meant to be shared**, and that's why I create open
 - **OSINT**, **Active Directory**, **SQL Injection**
 
 ### 🧪 QA Tools
-- **Selenium**, **Postman**, **PyTest**
+- **Postman**, **PyTest**
 - **Manual Testing**, **API Testing**, **Automation**
 
 ---
