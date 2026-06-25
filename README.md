@@ -63,7 +63,7 @@ I believe that **knowledge is meant to be shared**, and that's why I create open
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🔐 [**Cybersec-Themes**](https://github.com/st-b2/Cybersec-Themes) | A curated library of cybersecurity books, cheat sheets, and pentesting resources. | InfoSec, Kali Linux, Python |
-| 📚 [**QA-Library**](https://github.com/st-b2/QA-Library) | A collection of books and materials for software testing (manual + automation). | QA, Testing, Python |
+| 📚 [**QA-Library**](https://github.com/st-b2/Profession-QA-Engineer) | A collection of books and materials for software testing (manual + automation). | QA, Testing, Python |
 | 🐍 [**Simple-Python-Progs**](https://github.com/st-b2/Simple-Python-Progs) | A set of simple Python scripts for everyday automation tasks. | Python, Automation |
 | 🗄️ [**Test-DB-on-MySQL**](https://github.com/st-b2/Test-DB-on-MySQL) | A test MySQL database dump created while learning SQL. | MySQL, SQL, Database |
 
