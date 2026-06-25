@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi there, I'm st-b2</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&random=false&width=600&height=60&lines=InfoSec+Professional;QA+Enthusiast;Automation+Scripting;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&random=false&width=600&height=60&lines=Learning+InfoSec;Exploring+QA;Python+Enthusiast;Building+Skills+Every+Day" alt="Typing SVG" />
 </p>
 
 ---
